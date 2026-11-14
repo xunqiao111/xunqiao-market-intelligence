@@ -24,7 +24,7 @@ Market research rarely happens on one screen. A headline arrives in a news feed,
 
 You can explore the complete homepage without signing in. A **free account** unlocks the workbench, news reader, markets and published AI research. Optional **Gold membership** adds AI conversations and developer API access. No desktop installation or personal model-provider key is required.
 
-<p align="center"><a href="assets/home.png"><img src="assets/home.png" width="640" alt="Xun Qiao homepage in the English interface, captured directly from a fullscreen browser" /></a></p>
+<p align="center"><a href="assets/home.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/home.png" width="640" alt="Xun Qiao homepage in the English interface, captured directly from a fullscreen browser" /></a></p>
 
 **All screenshots below use the English interface and show the live website. Click any image to inspect its original resolution.** The captures are historical examples, not current prices or investment recommendations.
 
@@ -72,7 +72,7 @@ Each overview can show:
 
 The nearby asset cards let you compare other important instruments without leaving the section. A symbol can refer to different instruments in different markets; the full name and category matter.
 
-<p align="center"><a href="assets/focus.png"><img src="assets/focus.png" width="640" alt="Fullscreen market focus with Bitcoin, U.S. equity context, prices, ranges and related events" /></a></p>
+<p align="center"><a href="assets/focus.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/focus.png" width="640" alt="Fullscreen market focus with Bitcoin, U.S. equity context, prices, ranges and related events" /></a></p>
 
 ### Headlines, dates and ways to continue
 
@@ -80,7 +80,7 @@ The homepage also provides a recent-news preview, an entry to the full reader, s
 
 The membership section explains the distinction between free research and optional premium services. You can continue into the workbench, explore the next calendar item, or return to a headline that caught your attention.
 
-<p align="center"><a href="assets/home-tools.png"><img src="assets/home-tools.png" width="640" alt="Fullscreen homepage market tools, upcoming activity and research access options" /></a></p>
+<p align="center"><a href="assets/home-tools.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/home-tools.png" width="640" alt="Fullscreen homepage market tools, upcoming activity and research access options" /></a></p>
 
 ## Your research workbench
 
@@ -90,7 +90,7 @@ The workbench starts with **Bitcoin and NVIDIA**. Add or remove instruments, the
 
 The asset selector supports search and market categories, including crypto, stocks and stock tokens. It shows instrument identities and related-report counts so you can distinguish a company, an ETF and a tokenized instrument with similar lettering.
 
-<p align="center"><a href="assets/asset-picker.png"><img src="assets/asset-picker.png" width="640" alt="Fullscreen asset selector with search, market filters, instrument names and a visible confirmation button" /></a></p>
+<p align="center"><a href="assets/asset-picker.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/asset-picker.png" width="640" alt="Fullscreen asset selector with search, market filters, instrument names and a visible confirmation button" /></a></p>
 
 ### Price action and reporting, side by side
 
@@ -100,7 +100,7 @@ Event markers are **off by default**. Turn them on when you want to inspect news
 
 The adjacent focus list keeps other selected assets within reach. Switch the active instrument to investigate its own context instead of mixing every selected asset's events into one undifferentiated feed.
 
-<p align="center"><a href="assets/workbench.png"><img src="assets/workbench.png" width="640" alt="Fullscreen workbench showing the complete price chart and selected research assets" /></a></p>
+<p align="center"><a href="assets/workbench.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/workbench.png" width="640" alt="Fullscreen workbench showing the complete price chart and selected research assets" /></a></p>
 
 ### Related events and asset fundamentals
 
@@ -110,7 +110,7 @@ Fundamentals include the available price range, trading volume, market cap and a
 
 Association counts include lower-rated events as well as important ones. An event set can represent several distinct constituent reports, so a card count and a related-record count answer different questions.
 
-<p align="center"><a href="assets/workbench-fundamentals.png"><img src="assets/workbench-fundamentals.png" width="640" alt="Fullscreen workbench fundamentals, related reporting and asset-specific context" /></a></p>
+<p align="center"><a href="assets/workbench-fundamentals.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/workbench-fundamentals.png" width="640" alt="Fullscreen workbench fundamentals, related reporting and asset-specific context" /></a></p>
 
 ### Research evidence beyond headlines
 
@@ -120,7 +120,7 @@ For example, a Bitcoin research view can show funding rates, open interest, hour
 
 These definitions are important: a funding rate without a stated period should not be annualized by assumption; turnover is not executable order-book depth; protocol revenue is not automatically tokenholder income. Historical third-party reporting is different from a current on-chain measurement.
 
-<p align="center"><a href="assets/workbench-observations.png"><img src="assets/workbench-observations.png" width="640" alt="Fullscreen research observations with source-specific derivatives and network data" /></a></p>
+<p align="center"><a href="assets/workbench-observations.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/workbench-observations.png" width="640" alt="Fullscreen research observations with source-specific derivatives and network data" /></a></p>
 
 ### Notes, upcoming dates and the guided tour
 
@@ -149,13 +149,13 @@ New items enter automatically. When you are reading older material, the reader p
 
 Loading, connection and empty states have different meanings. A feed that is still preparing should be read as loading, not as proof that there are no events.
 
-<p align="center"><a href="assets/news-all.png"><img src="assets/news-all.png" width="640" alt="Fullscreen English live news reader with search, filtering, source controls and saved-story actions" /></a></p>
+<p align="center"><a href="assets/news-all.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/news-all.png" width="640" alt="Fullscreen English live news reader with search, filtering, source controls and saved-story actions" /></a></p>
 
 ### Control your source mix
 
 The source selector lets you review and search the available source directory, then apply your selection. Source labels and status help explain the coverage in your feed. The selection is a reading preference; it does not turn a third-party report into a verified fact.
 
-<p align="center"><a href="assets/news-sources.png"><img src="assets/news-sources.png" width="640" alt="Fullscreen source selector with searchable sources and an accessible apply control" /></a></p>
+<p align="center"><a href="assets/news-sources.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/news-sources.png" width="640" alt="Fullscreen source selector with searchable sources and an accessible apply control" /></a></p>
 
 ## AI Picks and event collections
 
@@ -169,13 +169,13 @@ Related reports can be consolidated into an **event set**. Its card provides a s
 
 This preserves the distinction between “many articles” and “many independent catalysts.” Several outlets repeating one announcement do not automatically create several independent reasons to expect a price move.
 
-<p align="center"><a href="assets/news.png"><img src="assets/news.png" width="640" alt="Fullscreen AI Picks showing important developments and grouped event collections" /></a></p>
+<p align="center"><a href="assets/news.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/news.png" width="640" alt="Fullscreen AI Picks showing important developments and grouped event collections" /></a></p>
 
 ### Open the context behind a card
 
 Expand a story to read its available body, background and analysis. Structured sections can explain why it matters, what would support an interpretation, what would change the view, and which risks or uncertainties deserve attention. Event sets also provide a way to inspect the reporting that contributes to the summary.
 
-<p align="center"><a href="assets/event-detail.png"><img src="assets/event-detail.png" width="640" alt="Fullscreen event timeline with constituent reports and source links in the English interface" /></a></p>
+<p align="center"><a href="assets/event-detail.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/event-detail.png" width="640" alt="Fullscreen event timeline with constituent reports and source links in the English interface" /></a></p>
 
 ## Asset links and visual signals
 
@@ -207,7 +207,7 @@ The leading assets by related-information count are scheduled for ongoing report
 
 Choose all reports or an individual asset. Cards show the instrument, report time, Möbius-ring grade, summary and available long / short estimates. Open the report to see how the conclusion was reached.
 
-<p align="center"><a href="assets/reports-feed.png"><img src="assets/reports-feed.png" width="640" alt="Fullscreen AI Reports view with asset filters and published research cards" /></a></p>
+<p align="center"><a href="assets/reports-feed.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/reports-feed.png" width="640" alt="Fullscreen AI Reports view with asset filters and published research cards" /></a></p>
 
 ### The details behind the summary
 
@@ -226,7 +226,7 @@ Report details can include the following fields when the inputs support them:
 
 The text explains the market structure, important reporting, supporting observations and counterevidence. Additional sections cover **when to consider the scenario, what invalidates it, the next checks, probability rationale and risks**.
 
-<p align="center"><a href="assets/reports.png"><img src="assets/reports.png" width="640" alt="Fullscreen AI report detail showing scenario conditions, risk metrics and evidence-related fields" /></a></p>
+<p align="center"><a href="assets/reports.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/reports.png" width="640" alt="Fullscreen AI report detail showing scenario conditions, risk metrics and evidence-related fields" /></a></p>
 
 ### Ratings with an explanation
 
@@ -245,7 +245,7 @@ The current component weights are **timing 30%, entry location 25%, risk / rewar
 
 Illustrative sizing uses a stated example account; it is not your balance. Observed-volume participation is a planning reference, not a measurement of executable liquidity. AI probabilities are subjective estimates rather than calibrated historical win rates.
 
-<p align="center"><a href="assets/report-review.png"><img src="assets/report-review.png" width="640" alt="Fullscreen report rating breakdown, changed conditions and review status" /></a></p>
+<p align="center"><a href="assets/report-review.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/report-review.png" width="640" alt="Fullscreen report rating breakdown, changed conditions and review status" /></a></p>
 
 ## Plans, comparisons and reviews
 
@@ -273,13 +273,13 @@ The markets page supports **All, Crypto, U.S. stocks and Stock tokens**. Search 
 
 Rows combine the instrument identity, price, change basis, recent trend and related-event context. Open an instrument to continue into its own chart and research. Stock tokens remain separate instruments from their underlying shares.
 
-<p align="center"><a href="assets/markets.png"><img src="assets/markets.png" width="640" alt="Uncropped fullscreen markets page showing the full width of the quote table and all visible columns" /></a></p>
+<p align="center"><a href="assets/markets.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/markets.png" width="640" alt="Uncropped fullscreen markets page showing the full width of the quote table and all visible columns" /></a></p>
 
 ### Chart and events
 
 The chart view adds the selected instrument's price context, interval controls, OHLC values and optional event markers. Open a marker to inspect reporting, or continue to the asset's workbench. Events are positioned by reporting time, not by an asserted causal explanation for every candle.
 
-<p align="center"><a href="assets/markets-chart.png"><img src="assets/markets-chart.png" width="640" alt="Uncropped fullscreen chart-and-events page showing the complete chart and instrument selector" /></a></p>
+<p align="center"><a href="assets/markets-chart.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/markets-chart.png" width="640" alt="Uncropped fullscreen chart-and-events page showing the complete chart and instrument selector" /></a></p>
 
 ### Data and research
 
@@ -287,7 +287,7 @@ The research view brings source observations, the asset snapshot and source-grou
 
 Units and market sessions matter. An equity share count is not a dollar turnover figure, and a closed U.S. session is not equivalent to a continuously traded crypto venue. Use the displayed timestamps and definitions when comparing instruments.
 
-<p align="center"><a href="assets/markets-research.png"><img src="assets/markets-research.png" width="640" alt="Uncropped fullscreen markets research view with source-specific observations and asset data" /></a></p>
+<p align="center"><a href="assets/markets-research.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/markets-research.png" width="640" alt="Uncropped fullscreen markets research view with source-specific observations and asset data" /></a></p>
 
 ## GPT conversations
 
@@ -311,7 +311,7 @@ Data groups cover news, official updates, AI Picks, macro observations, story de
 
 **Real-time candlestick series are excluded from the external API.** Source distribution permissions and account access still apply; a visible source label is not a grant to redistribute every underlying item.
 
-<p align="center"><a href="assets/api.png"><img src="assets/api.png" width="640" alt="Fullscreen site data API interface with its endpoint catalog and request example" /></a></p>
+<p align="center"><a href="assets/api.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/api.png" width="640" alt="Fullscreen site data API interface with its endpoint catalog and request example" /></a></p>
 
 ### Learn, try and integrate
 
@@ -321,7 +321,7 @@ Key management supports names, read-only scopes and revocation. A newly created 
 
 Use stable IDs from the instrument directory and the endpoint's pagination contract. Incremental feeds use cursors so your integration can process additions, corrections and withdrawals rather than repeatedly downloading everything.
 
-<p align="center"><a href="assets/api-guide.png"><img src="assets/api-guide.png" width="640" alt="Fullscreen API integration guide with scope, pagination and request-example instructions" /></a></p>
+<p align="center"><a href="assets/api-guide.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/api-guide.png" width="640" alt="Fullscreen API integration guide with scope, pagination and request-example instructions" /></a></p>
 
 **[Read the detailed API guide and all 26 routes →](API-GUIDE.md)**
 
@@ -356,7 +356,7 @@ Dark and light backgrounds have **separate preferences**. Available shapes inclu
 
 Reading settings include density, time-zone preferences and event-display controls. Source and layout settings help keep your research view useful without making every user follow the same screen arrangement. Desktop navigation is on the left; mobile navigation uses the five main sections.
 
-<p align="center"><a href="assets/appearance.png"><img src="assets/appearance.png" width="640" alt="Fullscreen light-theme workbench demonstrating frosted surfaces and the alternate appearance" /></a></p>
+<p align="center"><a href="assets/appearance.png"><img src="https://raw.githubusercontent.com/xunqiao111/xunqiao-market-intelligence/5f133ab39a18b468d5be8e348e4fcb80402ecf14/assets/appearance.png" width="640" alt="Fullscreen light-theme workbench demonstrating frosted surfaces and the alternate appearance" /></a></p>
 
 ### Announcements and opt-in research alerts
 
