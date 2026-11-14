@@ -6,9 +6,9 @@
 
 **News, events, charts and AI research for crypto and U.S. stocks.**
 
-**[Open the website ↗](https://xunqiao.qq10.fun/) · [API documentation](https://xunqiao.qq10.fun/api-docs) · [Feedback](https://github.com/xunqiao111/xunqiao-market-intelligence/issues)**
+**[User guide](GUIDE.md) · [Open the website ↗](https://xunqiao.qq10.fun/) · [API documentation](https://xunqiao.qq10.fun/api-docs) · [Feedback](https://github.com/xunqiao111/xunqiao-market-intelligence/issues)**
 
-[简体中文](README.md) · English
+[简体中文](README.zh-CN.md) · English
 
 **1,000+ source coverage · Free core features · Chinese / English · Dark / light themes**
 
@@ -20,7 +20,14 @@ Xun Qiao connects the questions behind market research: what happened, which ass
 
 The homepage is available without signing in. A free account unlocks the research workbench, news, markets and published AI reports. Optional premium membership adds AI conversations and developer API access.
 
-![The live Xun Qiao homepage](assets/home.jpg)
+![The live Xun Qiao homepage](assets/home.png)
+
+<details>
+<summary>Explore the 24-hour market focus</summary>
+
+![Market focus and asset overviews](assets/focus.png)
+
+</details>
 
 ## One research workflow
 
@@ -35,7 +42,7 @@ The homepage is available without signing in. A free account unlocks the researc
 - Inspect asset and sector tags, relationship strength and bilingual explanations.
 - Incoming items enter the feed automatically while preserving the reading position when browsing older content.
 
-![AI Picks and grouped event coverage](assets/news.jpg)
+![AI Picks and grouped event coverage](assets/news.png)
 
 ### An asset-focused workbench
 
@@ -49,13 +56,13 @@ Select one or several assets, then focus on the one you are researching. BTC and
 
 Coverage varies by asset, venue and source. Missing fields are not zero.
 
-![The research workbench](assets/workbench.jpg)
+![The research workbench](assets/workbench.png)
 
 ### Markets with context
 
 Move from a market list to charts and events, then continue into data and research. Crypto and equities share the research workflow while retaining their own market sessions and units. Check the displayed time, currency, unit and market status when comparing data.
 
-![The markets interface](assets/markets.jpg)
+![The markets interface](assets/markets.png)
 
 ### Structured AI research
 
@@ -69,7 +76,7 @@ Explore supporting evidence, directional views, observation conditions, invalida
 
 The report's Möbius-ring rating is distinct from an event's importance rating. AI probabilities are research estimates, not guaranteed or calibrated trading win rates.
 
-![Published AI reports](assets/reports.jpg)
+![Published AI reports](assets/reports.png)
 
 ### Personalization and notifications
 
